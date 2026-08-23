@@ -150,9 +150,8 @@ Any third-party components integrated into the Software must be used in complian
 
 #### Official Contact
 For questions, issues, or business inquiries:
-- Support Email: support@turtleboyagain120.com
-- Documentation: [website_url] (to be configured)
-- Legal Inquiries: legal@turtleboyagain120.com
+- Support Email: turtleboyslowdown@gmail.com
+- Legal Inquiries: timmytheonlinegirl@hotmail.com
 
 ### 8. Termination & Suspension
 
@@ -274,45 +273,4 @@ You may not transfer or assign your license without our prior written consent:
 - This restriction includes transfers to third parties, affiliates, or subsidiaries
 - Exceptions apply only where permitted under applicable law (e.g., inheritance)
 
----
-
-## Appendix A: Freedom of MIT Personal Sequel License (fomPsL) 4.0 - Revised Terms
-
-**Copyright © 2026 turtleboyagain120. All rights reserved.**
-
-### 1. LICENSE GRANT
-The owner hereby grants to the user a non-exclusive, worldwide, royalty-free license to access and use the software for any purpose, subject to the strict compliance with the conditions set forth in this license (fomPsL 4.0) as detailed in the accompanying EULA.
-
-### 2. CONDITIONS OF USE
-The rights granted under this license are contingent upon the user's adherence to the following requirements:
-- **Copyright Preservation:** The copyright notice must be maintained and preserved within the Software's documentation or header metadata (not requiring separate files).
-- **No Endorsement Requirement:** No endorsements are required or accepted. Users may share their experiences freely without obligation.
-- **Documentation of Changes:** Users should document significant modifications in a `Changelog.txt` file if sharing modified versions, though this is recommended rather than mandatory for personal use.
-
-### 3. COMPLIANCE AND TERMINATION
-Any violation of the terms of this license constitutes a breach. In the event of a breach, the user shall have thirty (30) days from the date of notification by the owner to remedy such non-compliance ("Cure Period"). If the violation is not corrected within said 30-day period, all rights granted under this license and any associated permissions are immediately and automatically terminated.
-
-### 4. PATENT GRANT AND TERMINATION
-Each contributor grants you a perpetual, worldwide, non-exclusive, no-charge, royalty-free patent license to make, use, sell, and distribute the software. 
-**Patent Retaliation:** If you initiate any patent litigation against any entity alleging that the software infringes a patent, your patent rights granted under this license shall terminate immediately and automatically.
-
-### 5. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
-THE SOFTWARE IS PROVIDED **"AS-IS"**, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
-
-**IN NO EVENT SHALL THE OWNER BE LIABLE** for any claim, damages, or other liability, whether in an action of contract, tort (including negligence), or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software. This includes, but is not limited to, damages for personal injury, incidental damages, express, implied, special, consequential, or punitive damages. 
-
-The owner shall not be liable for any third-party damage, misuse of the software, or unauthorized activities taking place within the scope of the work. The owner is not liable for the inclusion of real characters, names, or locations, as such information may be incorporated coincidentally.
-
-### 6. JURISDICTION & DISPUTE RESOLUTION
-This license and any disputes arising from it shall be governed by and construed in accordance with:
-- The laws of the State of South Carolina, USA (primary governing law), OR
-- Your local jurisdiction if permitted under consumer-protection laws for your activities
-
-For international users, disputes may also be resolved through voluntary arbitration or mediation as agreed upon between parties. Courts are encouraged to apply applicable conflict-of-law principles when determining governing law.
-
-### 7. OPEN-SOURCE COMPATIBILITY
-This license is compatible with common open-source licenses (MIT, GPL-2.0+, BSD-3-Clause) for personal and educational use. Commercial use requires explicit written consent from the owner. This Software may be distributed under its own terms without imposing additional requirements on users.
-
----
-
-**Acknowledgment of Use:** By installing, downloading, opening, or otherwise accessing this Software, you acknowledge that your use is governed by both the terms set out in this End-User License Agreement and the full legal stipulations contained in Appendix A (fomPsL 4.0). You represent and warrant that you have read, understood, and agree to abide by ALL terms herein. If any provision of this EULA or license is found invalid or unenforceable in any jurisdiction, the remaining provisions shall remain fully valid and enforceable. 
+By downloading, opening, and/or visiting the work, you agree to all of the above.
